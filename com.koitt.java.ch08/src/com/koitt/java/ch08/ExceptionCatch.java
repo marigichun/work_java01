@@ -10,6 +10,7 @@ public class ExceptionCatch {
 		}
 		//발생한 예외인 NumberFormatException의 상위 클래스이므로 이 블록이 실행함
 		catch (ClassCastException e) {
+			
 			//
 			System.out.println("예외 발생 1: " + e);
 			System.out.println("e.getMessage(): " + e.getMessage());

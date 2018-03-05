@@ -10,6 +10,7 @@ public class Chicken extends Process{
 
 	@Override
 	public void cooking() {
+		
 		System.out.println("치킨을 튀긴다.");
 	}
 

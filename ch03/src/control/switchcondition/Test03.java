@@ -11,7 +11,7 @@ public class Test03 {
 				System.out.printf("3의 배수입니다.\n");
 				break;
 			case 1: case 2:
-				System.out.printf("3의 배수가 아닙니다.\n");"
+				System.out.printf("3의 배수가 아닙니다.\n");
 				break;
 		
 		

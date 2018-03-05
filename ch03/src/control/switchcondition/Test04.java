@@ -4,11 +4,11 @@ public class Test04 {
 	public static void main(String[] args) {
 		int x = 20;
 		switch (x) {
-		case  x > 0 :
-			System.out.printf("¾ç¼ö\n");
+		case 1:
+			System.out.printf("ï¿½ï¿½ï¿½\n");
 			break;
-		case  x < 0:
-			System.out.printf("À½¼ö\n");
+		case 2:
+			System.out.printf("ï¿½ï¿½ï¿½ï¿½\n");
 		}
 	}
 

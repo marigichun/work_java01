@@ -16,6 +16,7 @@ public class Person<p> {
 		
 	@Override
 	public String toString() {
+		
 		return "Person [name=";
 	}
 	public static void main(String[] args) {
